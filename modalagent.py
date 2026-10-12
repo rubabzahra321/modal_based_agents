@@ -25,7 +25,8 @@ percept_sequence = [
     ("Room1", "Cold"),
     ("Room1", "Normal"),
     ("Room2", "Hot"),
-    ("Room2", "Normal")
+    ("Room2", "Normal"),
+    ("Room1", "very bright"),
 ]
 
 print("Room Reading Action Model")
